@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+.active-dashboard {
+    background: #240046;
+}
+
+.brand-color1 {
+    color: #240046 !important;
+}
+
+.brand-color2 {
+    color: #FF9E00;
+}
+
+.primary-color1 {
+    background: #240046;
+}
+
+.primary-color2 {
+    background: #FF9E00;
+}
+
+.pianist-card {
+    /* height: 200px; */
+    /* width: 300px; */
+    background: url(/images/pianist.png);
+    background-repeat: no-repeat; 
+    /* object-fit:cover; */
+    background-size:cover;
+    background-position: 0% 0%;
+    /* border: solid black; */
+    border-radius: 12px;
+}
+
+/* .all-image {
+	object-fit: cover;
+    display: block;
+    vertical-align: middle;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+} */
+
+.category-content {
+    padding-top: 150px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+
+.guitarist-card {
+    /* height: 200px;
+    width: 200px; */
+    background: url(/images/guitarist.png);
+    background-repeat: no-repeat; 
+    object-fit: cover;
+    background-size: cover;
+    border-radius: 12px;
+}
+
+/* .guitarist-content {
+    padding-top: 100px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+} */
+
+.drummer-card {
+    /* height: 200px;
+    width: 200px; */
+    background: url(/images/drummer.png);
+    background-repeat: no-repeat; 
+    object-fit: cover;
+    background-size: cover;
+    border-radius: 12px;
+}
+
+.trumpeter-card {
+    background: url(/images/trumpeter.png);
+    background-repeat: no-repeat; 
+    object-fit: cover;
+    background-size: cover;
+    border-radius: 12px;
+    background-position: 50% 50%;
+}
+
+.violinist-card {
+    background: url(/images/violinist.png);
+    background-repeat: no-repeat; 
+    object-fit: cover;
+    background-size: cover;
+    border-radius: 12px;
+}

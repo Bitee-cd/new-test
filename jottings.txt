@@ -1,0 +1,11 @@
+header and footer, selected instruments, settings screen,contact me, customer payments : Seun
+about us,contact us, explore, how it works : Caleb
+landing page, authentication(login, forgot password etc):Happiness
+homepage, instrumentalist, my account: Gideon
+notification section: Ekong
+
+Remaining Things:
+1.Navbar
+2.Footer
+3. Colour in hero page
+3.responsive for Tablet
