@@ -229,7 +229,7 @@
   .search {
     width: 100px;
   }
-  input {
+  .navbar input {
     height: 20px;
   }
   .form-control {
@@ -274,7 +274,10 @@
   }
   .nav-link {
     font-size: 7px;
-    padding: 2px 4px;
+    padding: 2px;
+  }
+  .navbar-brand {
+    margin-right: 0;
   }
   .secondSection {
     height: 100%;
@@ -328,16 +331,5 @@
   .btn {
     font-size: 7px;
     padding: 3px;
-  }
-  .footer input {
-    width: 90%;
-    height: 10px;
-  }
-  .footer .imageBox img {
-    width: 50px;
-  }
-  .footer form img {
-    width: 10px;
-    height: 10px;
   }
 }

@@ -4,8 +4,5 @@ landing page, authentication(login, forgot password etc):Happiness
 homepage, instrumentalist, my account: Gideon
 notification section: Ekong
 
-Remaining Things:
-1.Navbar
-2.Footer
-3. Colour in hero page
-3.responsive for Tablet
+About Us:
+1. Blue Ball for mobile screen
